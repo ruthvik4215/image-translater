@@ -83,6 +83,8 @@ def cartooning_image(image_path):
     
     plt.show()
     
+    #end.
+    
     
 def save_cartooned_image(resized_image_6, image_path):
     #saving an image using imwrite()
